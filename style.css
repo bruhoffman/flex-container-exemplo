@@ -1,0 +1,26 @@
+div {
+    background-color: #afafaf;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 700px;
+    height: 400px;
+    padding: 8px;
+}
+
+ul {
+    background-color: #b3d5fe;
+    width: 140px;
+    height: 140px;
+    border-radius: 10px;
+    margin: 16px;
+    border: 1px solid black;
+}
+
+li {
+    background-color: #fa9fae;
+    width: 80px;
+    border-radius: 10px;
+    margin: 8px;
+    text-align: center;
+    padding: 8px;
+}
